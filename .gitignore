@@ -1,0 +1,7 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+.virtual_documents/
+# JetBrains IDEs
+.idea/
+# Temporary files
+.tmp.driveupload/
